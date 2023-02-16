@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--CSS Bootstrap link-->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css
+    "
+    />
+    <!--Icons Bootstrap link-->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css"
+    />
+    <!--Toastify-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <!--CSS link-->
+    <link rel="stylesheet" href="./css/main.css" />
+    <!--Google font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,700&display=swap"
+      rel="stylesheet"
+    />
+    <title>RockHouse</title>
+  </head>
+  <body>
+    <header>
+      <!---------------------------------- MENU ---------------------------------------------->
+      <!--Navbar Header-->
+      <nav class="nav-header">
+        <p>¡Bienvenido a RockHouse Store!</p>
+      </nav>
+
+      <!--Navbar Logo-->
+      <nav class="nav-logo-carrito">
+        <div class="container-logo-carrito">
+          <a href="./index.html" class="logo">Rock<span>House</span></a>
+        </div>
+      </nav>
+
+      <!--Navbar Menu - List -->
+      <nav class="nav-menu-container">
+        <ul class="nav-list">
+          <li><button id="Todos" class="boton-menu active" href="./index.html">HOME</button></li>
+          <li><button id="Remeras" class="boton-menu">REMERAS</button></li>
+          <li><button id="Buzos" class="boton-menu">BUZOS</button></li>
+          <li><button id="Accesorios" class="boton-menu">ACCESORIOS Y OTROS</button></li>
+          <li>
+            <a class="boton-menu boton-carrito shopping-cart" href="./carrito.html">
+                </i><span id="numerito" class="numerito">0</span><i class="bi bi-cart"></i>
+            </a>
+        </li>
+        </ul>
+      </nav>
+    </header>
+
+    <!---------------------------------- SECCION PRODUCTOS ---------------------------------------------->
+    <main>
+      <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+      <div id="contenedor-productos" class="contenedor-productos">
+
+            <!---- Se va a completar con JS ---->
+            
+      </div>
+    </main>
+
+    <!---------------------------------- FOOTER ---------------------------------------------->
+    <footer>
+      <nav class="footer-container">
+        <ul class="redes-container">
+          <li>
+            <a href="https://www.facebook.com/" target="_blank"
+              ><i class="bi bi-facebook"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/" target="_blank"
+              ><i class="bi bi-instagram"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/" target="_blank"
+              ><i class="bi bi-youtube"></i
+            ></a>
+          </li>
+        </ul>
+        <div class="copyright">
+          <p>© 2023 RockHouse</p>
+        </div>
+      </nav>
+    </footer>
+
+    <!--JS Bootstrap-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <!--JS Toastify-->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <!--JS Link-->
+    <script src="./js/index.js"></script>
+    </body>
+</html>

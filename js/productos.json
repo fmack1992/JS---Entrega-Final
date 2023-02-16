@@ -1,0 +1,163 @@
+[
+    {
+        "id": "Remera01",
+        "nombre": "Remera 01",
+        "categoria": "Remeras",
+        "imagen": "../img/Remeras/ac dc.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "Remera02",
+        "nombre": "Remera 02",
+        "categoria": "Remeras",
+        "imagen": "../img/Remeras/almafuerte.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "Remera03",
+        "nombre": "Remera 03",
+        "categoria": "Remeras",
+        "imagen": "../img/Remeras/batman.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "Remera04",
+        "nombre": "Remera 04",
+        "categoria": "Remeras",
+        "imagen": "../img/Remeras/blink 182.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "Remera05",
+        "nombre": "Remera 05",
+        "categoria": "Remeras",
+        "imagen": "../img/Remeras/bowie.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "Remera06",
+        "nombre": "Remera 06",
+        "categoria": "Remeras",
+        "imagen": "../img/Remeras/breaking bad.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "Remera07",
+        "nombre": "Remera 07",
+        "categoria": "Remeras",
+        "imagen": "../img/Remeras/chewabacca.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "Remera08",
+        "nombre": "Remera 08",
+        "categoria": "Remeras",
+        "imagen": "../img/Remeras/cobain.jpg",
+        "precio": 5000
+    },
+    {
+        "id": "Buzo01",
+        "nombre": "Buzo 01",
+        "categoria": "Buzos",
+        "imagen": "../img/Buzos/ac dc 2.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "Buzo02",
+        "nombre": "Buzo 02",
+        "categoria": "Buzos",
+        "imagen": "../img/Buzos/ac dc 3.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "Buzo03",
+        "nombre": "Buzo 03",
+        "categoria": "Buzos",
+        "imagen": "../img/Buzos/ac dc.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "Buzo04",
+        "nombre": "Buzo 04",
+        "categoria": "Buzos",
+        "imagen": "../img/Buzos/beatles.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "Buzo05",
+        "nombre": "Buzo 05",
+        "categoria": "Buzos",
+        "imagen": "../img/Buzos/guns.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "Buzo05",
+        "nombre": "Buzo 05",
+        "categoria": "Buzos",
+        "imagen": "../img/Buzos/guns.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "Buzo06",
+        "nombre": "Buzo 06",
+        "categoria": "Buzos",
+        "imagen": "../img/Buzos/la renga.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "Buzo07",
+        "nombre": "Buzo 07",
+        "categoria": "Buzos",
+        "imagen": "../img/Buzos/led zeppelin.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "Buzo08",
+        "nombre": "Buzo 08",
+        "categoria": "Buzos",
+        "imagen": "../img/Buzos/maiden.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "Accesorio01",
+        "nombre": "Billetera 01",
+        "categoria": "Accesorios",
+        "imagen": "../img/Accesorios y otros/billetera 1.jpg",
+        "precio": 3000
+    },
+    {
+        "id": "Accesorio02",
+        "nombre": "Billetera 02",
+        "categoria": "Accesorios",
+        "imagen": "../img/Accesorios y otros/billetera 2.jpg",
+        "precio": 3000
+    },
+    {
+        "id": "Accesorio03",
+        "nombre": "Cinto 01",
+        "categoria": "Accesorios",
+        "imagen": "../img/Accesorios y otros/cinto 1.jpg",
+        "precio": 4000
+    },
+    {
+        "id": "Accesorio04",
+        "nombre": "Cinto 02",
+        "categoria": "Accesorios",
+        "imagen": "../img/Accesorios y otros/cinto 2.jpg",
+        "precio": 4000
+    },
+    {
+        "id": "Accesorio05",
+        "nombre": "Gorra 01",
+        "categoria": "Accesorios",
+        "imagen": "../img/Accesorios y otros/gorra 1.jpg",
+        "precio": 6000
+    },
+    {
+        "id": "Accesorio05",
+        "nombre": "Gorra 02",
+        "categoria": "Accesorios",
+        "imagen": "../img/Accesorios y otros/gorra 2.jpg",
+        "precio": 6000
+    }
+]
